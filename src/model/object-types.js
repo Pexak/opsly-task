@@ -1,0 +1,4 @@
+export const OBJECT_TYPE = {
+  RECTANGLE: 'RECTANGLE',
+  SQUARE: 'SQUARE'
+};
