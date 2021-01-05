@@ -1,7 +1,7 @@
 import produce from "immer"
 import {ACTIONS} from '../actions/canvas-objects.action';
 
-const initialState = {
+export const initialState = {
   objects: [],
   selectedObjectIndex: undefined
 };
